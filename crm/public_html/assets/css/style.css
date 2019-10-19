@@ -1,0 +1,19 @@
+.authlogo{
+    width: 180px;
+}
+.mainlogo{
+    width: 90px;
+}
+.pagesbg{
+    background: #f5f6f7; !important;
+}
+.bginv{
+	background-color: rgba(255, 255, 255, 0.6) !important;
+}
+.centbtn{
+	margin: 0 auto;
+}
+.bgfix{
+	background-position: fixed;
+	background-size: 100% 100%;
+}
